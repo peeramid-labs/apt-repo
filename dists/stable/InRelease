@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Peeramid Labs
+Label: NSED
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: NSED Orchestrator APT Repository
+SHA256:
+ 709273706fb440d597f62198a12ed8dbf1fea26820a1856233ff7d219a4b7787 840 main/binary-amd64/Packages
+ aaee7d592055b86f9ee323bca1961367624123d0e70102efe70d15e63f85e4e4 585 main/binary-amd64/Packages.gz
+ b545b6496ed7b8ecf97d6614554f01721b43c30d593c98e1fd5873a4f82afd8f 840 main/binary-arm64/Packages
+ 48d47f73ff9ae69ce067aad6254fff4f6fb7277db1c412121dc5abe2badeacf9 581 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEzGRYJoHXrzySHTp4VPyIUKMLbW4FAmmWDzcACgkQVPyIUKML
+bW4H+A//S27HeTXVkvcmG/OCuftqR1CqWy2a66AXuO6T6kxAAK8awKujva/t7zgY
+Y1uoIOEKwa992hE5lCDJAi/ggLMF0igCbgQcFAghAj0ZKUoRov5t4uyTyTxoeqyK
+RhwypAJrdm5GNe67PUJFq+5zg57b633bSnSeYt+RiZvbapza+SM/Sd0RDa2zd/eU
+TIxq9Lph3iJBNqENQgzVlvBA9A8b7qsL42u7effbJs//YrrSFjOxx2qZbzzJn1/c
+z0OtSh75m58sM8NBp93Ve6r/eJNx/RkZtdrg8aiRFSLmkrb/cqvRMHeFN0ZGnxg/
+4lwwG6wGCvH6sexmyefvOwHSzIa4lhZnT9AfGNSEuJ0ewShRPUgzCh0mkdaaE7z3
+FEeetWKXQ7dxWYeETOj6wuYrWO4Xx7cdFz1sEceP6ZpZEZA0RkQsgeW3o0YexIrO
+Vh9HAH+k/prZ70OCozKP6uBW2H+6csW4ieYf1+CKmU/vatrbf+XbTN1APBQQSbvr
+DPrwVnwoDwei167/Sc3hNv7rZ5IdC2dyunittXRBwgtT6x0x+Iq9k+/8+NuRYUU6
+G7NKHuG0I1DqyoZD6kloP/G8HhXtChiG6htTAoQc+zLXdm2BOpwe1goVOCFn/3K5
+618LmXAsW5fDvZt1HVJj9FfuV1TYLfzD32Kz3jiG8oiEtyl0bYg=
+=8DB9
+-----END PGP SIGNATURE-----

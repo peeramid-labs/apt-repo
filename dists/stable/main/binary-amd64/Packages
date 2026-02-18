@@ -1,0 +1,20 @@
+Package: nsed-orchestrator
+Version: 0.2.1
+Architecture: amd64
+Maintainer: Peeramid Labs <engineering@peeramid.xyz>
+Filename: ./nsed-orchestrator_0.2.1_amd64.deb
+Size: 8079150
+MD5sum: 35847c9d50600256290f34c7f874ca48
+SHA1: 7c08c33db67b16d324042fffa30bf984b7b8e008
+SHA256: f17c48e3088f622371df67ac04be99764f7ed88ce9fb1c1eb6f2531749c6da2a
+Section: net
+Priority: optional
+Homepage: https://github.com/peeramid-labs/nsed
+Description: N-Way Self-Evaluating Deliberation orchestrator
+ Production-grade orchestrator for multi-agent deliberation using the NSED
+ protocol. Coordinates AI agents through structured propose-evaluate rounds
+ with convergence detection, budget management, and human-in-the-loop tools.
+ .
+ Licensed under BSL 1.1 — free for entities under $1M ARR, academic research,
+ and education. Converts to AGPLv3+ after 4 years.
+

@@ -1,12 +1,12 @@
 Package: nsed-orchestrator
-Version: 0.2.1
+Version: 0.3.0
 Architecture: amd64
 Maintainer: Peeramid Labs <engineering@peeramid.xyz>
-Filename: ./nsed-orchestrator_0.2.1_amd64.deb
-Size: 8079150
-MD5sum: 35847c9d50600256290f34c7f874ca48
-SHA1: 7c08c33db67b16d324042fffa30bf984b7b8e008
-SHA256: f17c48e3088f622371df67ac04be99764f7ed88ce9fb1c1eb6f2531749c6da2a
+Filename: ./nsed-orchestrator_0.3.0_amd64.deb
+Size: 6245560
+MD5sum: f6e64009d10073f90801229071baf89e
+SHA1: 165f0408c04493bd443d5259d8cde749cea26dd2
+SHA256: b69ff3125c5899e5e700a15a5f70bb0e5d5829c5fe98837327e0ae186d3c6aa0
 Section: net
 Priority: optional
 Homepage: https://github.com/peeramid-labs/nsed
